@@ -4,3 +4,4 @@ def dodivision:
     c=a/a1
     print(c)
 dodivision()
+#division function
